@@ -62,7 +62,7 @@ Access the dashboard via the URL displayed in your terminal (usually something t
 
 
 ## 4. Notes and limitation
-The default hyperparameter settings in main.py have not been extensively tuned and may not yield a smooth learning curve. 
+The default hyperparameter settings in main.py have not been extensively tuned and may not be optimal. 
 Feel free to test other values.
 
 
